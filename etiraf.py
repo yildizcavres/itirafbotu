@@ -36,9 +36,9 @@ async def start(event):
                       [
                        Button.inline("💌 İtiraf Yaz", data="itiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Destek', f'https://t.me/{support}'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
+                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/tritiraf')],
+                      [Button.url('📣 Destek', f'https://t.me/goldsohbettr'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/cavresoo')]
                     ),
                     link_preview=False)
 
@@ -55,9 +55,9 @@ async def handler(event):
                       [
                        Button.inline("💌 İtiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Destek', f'https://t.me/{support}'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
+                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/tritiraf')],
+                      [Button.url('📣 Destek', f'https://t.me/goldsohbettr'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/cavresoo')]
                     ),
                     link_preview=False)
 
